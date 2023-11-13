@@ -1,0 +1,49 @@
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.form form {
+  background: #fff;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 40px;
+  
+}
+
+.form form p  h3 {
+ text-align: center;
+}
+
+.form form input[type="text"] {
+  display: block;
+  border-radius: 50px;
+  width: 80%;
+  height: 50%;
+  padding: 10px;
+  margin: 10px;
+}
+.form form input[type="number"]{
+  display: block;
+  border-radius: 50px;
+  padding: 10px;
+
+}
+
+.form form select[name="Role"] {
+  display: block;
+  border-radius: 50px;
+  width: 80%;
+  padding: 5px;
+}
+
+.form form label {
+  text-align: center;
+  margin: 10px;
+}
+
+
+
+
